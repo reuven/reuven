@@ -4,7 +4,7 @@ Hi there, and welcome to my GitHub repos!  Most days, I am teaching Python and d
 
 You can learn more about my corporate training options at https://lerner.co.il/courses .  
 
-I also offer many online courses. You can read about those at https://store.lerner.co.il/. I'm particularly proud of (https://WeeklyPythonExercise.com)[Weekly Python Exercise], a set of courses that help people to improve their Python fluency through exercises and community discussion.
+I also offer many online courses. You can read about those at https://store.lerner.co.il/. I'm particularly proud of [https://WeeklyPythonExercise.com](Weekly Python Exercise), a set of courses that help people to improve their Python fluency through exercises and community discussion.
 
 I also wrote (https://PythonWorkout.comn/)["Python Workout"] for Manning, loaded with exercises to make you a more fluent Python developer.
 
