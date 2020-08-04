@@ -6,7 +6,7 @@ You can learn more about my corporate training options at https://lerner.co.il/c
 
 I also offer many online courses. You can read about those at https://store.lerner.co.il/. I'm particularly proud of [Weekly Python Exercise](https://WeeklyPythonExercise.com), a set of courses that help people to improve their Python fluency through exercises and community discussion.
 
-I also wrote [Python Workout][https://PythonWorkout.comn/) for Manning, loaded with exercises to make you a more fluent Python developer.
+I also wrote [Python Workout](https://PythonWorkout.com/) for Manning, loaded with exercises to make you a more fluent Python developer.
 
 I've been self-employed since 1995 (!), and help others to succeed with their own businesses on the [Business of Freelancing](https://businessoffreelancing.com/) podcast.
 
