@@ -12,6 +12,8 @@ Wondering if [LernerPython](https://LernerPython.com) is for you? Here's what so
 
 > If you find yourself just trying to get things to work but still wondering why it does, you will find value in it. You will find yourself going back to the videos over and over again to deepen your understanding. There are office hours and webinars where you can ask questions and get in-depth responses which help strengthen your foundation. Reuven also brings a lot of (funny) anecdotes from experience as well as many other resources (libraries, useful links, packages) that really help accelerate your fluency in the language. - *Ahmed, Sr Infrastructure Engineer*
 
+Learn more, and get a two-week free trial, at https://LernerPython.com .
+
 ## I publish three weekly newsletters:
 
 - [Better Developers](https://BetterDevelopersWeekly.com), with practical tips, tricks, and articles about Python. Free of charge, with more than 30k subscribers.
