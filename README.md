@@ -1,18 +1,24 @@
 # Reuven Lerner, Python trainer
 
-Hi there, and welcome to my GitHub repos!  Most days, I am teaching Python and data science to people at companies around the world. In 2019 (pre-coronavirus), I taught in the US, UK, Europe, Israel, India, and China. Nowadays, I still teach people around the world, but from the comfort of my home office.
+Hi there! I'm Reuven, and I've been using Python fo rmore than 30 years. 
 
-You can learn more about my corporate training options at https://lerner.co.il/courses .  
+I've been in business since 1995, teaching Python, Pandas, and Git to people around the world — via in-person corporate training, and also via my [LernerPython](https://LernerPython.com) online platform, where you get courses, exercises, office hours, members-only lectures, and a Discord forum to ask questions.
 
-I also offer many online courses. You can read about those at https://store.lerner.co.il/. I'm particularly proud of [Weekly Python Exercise](https://WeeklyPythonExercise.com), a set of courses that help people to improve their Python fluency through exercises and community discussion.
+Every week, I publish several newsletters:
 
-I also wrote [Python Workout](https://PythonWorkout.com/) for Manning, loaded with exercises to make you a more fluent Python developer. And I'm currently working on [Pandas Workout](https://PandasWorkout.com/), also for Manning, with exercises to help you improve your skills with the `pandas` data-analysis package.
+- [Better Developers](https://BetterDevelopersWeekly.com), with practical tips, tricks, and articles about Python
+- [Bamboo Weekly](https://BambooWeekly.com), deep-dive, hard-core data-analysis puzzles based on current events and real-world data sets
+- [Trainer Weekly](https://TrainerWeekly.com), where I talk about the pedagogy, logistcs, and business of training
 
-I've been self-employed since 1995 (!), and help others to succeed with their own businesses on the [Business of Freelancing](https://businessoffreelancing.com/) podcast.
+I have a large library of YouTube videos about Python and Pandas at https://YouTube.com/reuvenlerner .
 
-This repo contains some open-source software, and many Jupyter notebooks from conference and Meetup talks I've given.
+I've published two books of exercises, to help you improve your skills:
 
-Please contact me if you have questions!
-- [reuven@lerner.co.il](mailto:reuven@lerner.co.il)
-- Twitter: [@reuvenmlerner](https://twitter.com/reuvenmlerner)
-- YouTube: https://www.youtube.com/reuvenlerner
+- [Python Workout](https://PythonWorkout.com), with 200+ exercises to improve your Python fluency
+- [Pandas Workout](https://PandasWorkout.com), with 200+ exercises to improve your Pandas fluency
+
+I'm on social networks:
+- [Bluesky](https://bsky.app/profile/lernerpython.com)
+- [LinkedIn](https://linkedin.com/in/reuven)
+
+Questions? Feel free to e-mail me at [reuven@lerner.co.il](mailto:reuven@lerner.co.il).
