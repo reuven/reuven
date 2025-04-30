@@ -1,6 +1,6 @@
 # Want to improve your Python and Pandas skills?
 
-![image]([new-reuven-headshot.jpg](https://github.com/reuven/reuven/blob/master/reuven-new-headshot.jpg)) Welcome! I'm Reuven, and I teach Python and Pandas for a living, training engineers at companies as Apple, Arm, Cisco, and Western Digital in these technologies.
+Welcome! I'm Reuven, and I teach Python and Pandas for a living, training engineers at companies as Apple, Arm, Cisco, and Western Digital in these technologies.
 
 ## LernerPython
 
